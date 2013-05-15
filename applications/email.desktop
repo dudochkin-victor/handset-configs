@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Email
+Icon=icons-Applications-email
+Exec=mannequin Email This is a placeholder for the MeeGo Email client
+Comment=Email Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

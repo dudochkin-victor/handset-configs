@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Camera
+Icon=icons-Applications-camera
+Exec=mannequin Camera This is a placeholder for the MeeGo Camera Application
+Comment=Camera Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

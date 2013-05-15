@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Help
+Icon=icons-Applications-help
+Exec=mannequin Help This is a placeholder for the MeeGo Help Application
+Comment=Help Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Music
+Icon=icons-Applications-music
+Exec=mannequin Music This is a placeholder for the MeeGo Music Application
+Comment=Music Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

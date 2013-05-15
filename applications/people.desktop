@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=People
+Icon=icons-Applications-people
+Exec=/usr/bin/meego-handset-people
+Comment=Contacts Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

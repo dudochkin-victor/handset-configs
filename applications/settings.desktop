@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Settings
+Icon=icons-Applications-settings
+Exec=/usr/bin/duicontrolpanel
+Comment=Settings Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

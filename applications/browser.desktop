@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Browser
+Comment=Browse the Mobile Web
+TryExec=/usr/bin/fennec
+Exec=fennec
+Icon=icons-Applications-browser
+StartupNotify=true
+Terminal=false
+Type=Application
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;text/mml;
+

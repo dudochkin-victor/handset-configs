@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Phonesim 
+Comment=Modem simulator
+Exec=startphonesim
+Categories=Telephony;Network;
+Icon=phonesim
+Type=Application
+Terminal=false
+StartupNotify=true

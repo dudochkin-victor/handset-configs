@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Chat
+Icon=icons-Applications-chat
+Exec=mannequin Chat This is a placeholder for the MeeGo Chat Application
+Comment=MeeGo instant messaging application
+Categories=Network;InstantMessaging;
+Terminal=false
+StartupNotify=true
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;
+X-Desktop-File-Install-Version=0.16

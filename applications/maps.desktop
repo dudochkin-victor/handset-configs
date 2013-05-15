@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Maps
+Icon=icons-Applications-maps
+Exec=mannequin Maps This is a placeholder for the MeeGo Maps Application
+Comment=Maps Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

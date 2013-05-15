@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Clock
+Icon=icons-Applications-clock
+Exec=mannequin Clock This is a placeholder for the MeeGo Clock
+Comment=Clock Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

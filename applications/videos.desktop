@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Videos
+Icon=icons-Applications-video
+Exec=mannequin Videos This is a placeholder for the MeeGo Video Application
+Comment=Videos Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

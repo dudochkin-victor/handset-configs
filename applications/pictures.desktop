@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Pictures
+Icon=icons-Applications-photos
+Exec=meegophotos
+Comment=Pictures Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

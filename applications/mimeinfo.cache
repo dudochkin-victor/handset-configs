@@ -1,0 +1,6 @@
+[MIME Cache]
+application/xhtml+xml=browser.desktop
+application/vnd.mozilla.xul+xml=browser.desktop
+text/xml=browser.desktop
+text/mml=browser.desktop
+text/html=browser.desktop

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=App-Up
+Icon=icons-Applications-appup
+Exec=mannequin App-Up This is a placeholder for the MeeGo App-Up Application
+Comment=App-Up Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Calendar
+Icon=icons-Applications-calendar
+Exec=mannequin Calendar This is a placeholder for the MeeGo Calendar
+Comment=Calendar Application
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;
